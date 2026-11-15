@@ -1,0 +1,7 @@
+# Mir Decor — https://mirdecore.in
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /mirdecore-admin/
+
+Sitemap: https://mirdecore.in/sitemap.xml
